@@ -1,5 +1,5 @@
 # kitura-bluemix-example
-Simple example of kitura usage in blue mix cloud
+Simple example of Kitura (Swift Web Framework and HTTP Server) usage in blue mix cloud.
 
 # Run project locally
 - execute terminal
